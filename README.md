@@ -6,8 +6,6 @@ DATABASE : **MySQL Wire Protocol compatible**
 
 CODE : **TypeScript (Node.js)**
 
-FRAMEWORK : **[Express](https://www.npmjs.com/package/express)**
-
 ### ℹ️ Notes
 Attempt to have a loose coupling between payment_note & transaction, both via code architecture and MySQL / queries.
 
